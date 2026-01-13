@@ -3,8 +3,6 @@
 ## Overview
 This project demonstrates the use of SQL to support security monitoring and system administration tasks. The lab focuses on analyzing login attempt logs and employee records to identify potential security issues and determine which systems require updates.
 
-The goal of this project is to show practical SQL skills applied to real-world IT and security scenarios.
-
 ---
 
 ## Objectives
