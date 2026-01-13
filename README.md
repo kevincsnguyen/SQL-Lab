@@ -37,13 +37,3 @@ The goal of this project is to show practical SQL skills applied to real-world I
 - Filtered login records by geographic location to detect suspicious behavior.  
 - Retrieved employee records by department to support targeted system updates.  
 
----
-
-## Tools & Environment
-- SQL (relational database environment)
-- Sample login attempt and employee datasets
-
----
-
-## Summary
-This lab demonstrates the ability to use SQL as a tool for security monitoring and IT support by analyzing authentication data and employee records. The project highlights practical SQL skills that are relevant to entry-level IT, security, and systems roles.
