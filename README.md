@@ -3,32 +3,6 @@
 ## Overview
 This project demonstrates the use of SQL to support security monitoring and system administration tasks. The lab focuses on analyzing login attempt logs and employee records to identify potential security issues and determine which systems require updates.
 
----
-
-## Objectives
-- Identify failed and suspicious login attempts  
-- Analyze login activity by date, time, and location  
-- Retrieve employee system information by department  
-- Apply SQL filtering techniques for security analysis  
-
----
-
-## Skills Demonstrated
-- SQL querying and data filtering  
-- Security log analysis  
-- Logical operators and pattern matching  
-- Data analysis for IT and security decision-making  
-
----
-
-## SQL Concepts Used
-- `SELECT` and `FROM` statements  
-- `WHERE` clause filtering  
-- Logical operators: `AND`, `OR`, `NOT`  
-- Pattern matching using `LIKE` and wildcards  
-
----
-
 ## Lab Scenarios
 - Investigated failed login attempts to identify potential unauthorized access.  
 - Queried login activity occurring outside normal business hours.  
